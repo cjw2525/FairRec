@@ -1,0 +1,13 @@
+numpy
+matplotlib
+IPython
+torch
+sklearn
+random
+tqdm
+math
+collections
+itertools
+time
+livelossplot
+
